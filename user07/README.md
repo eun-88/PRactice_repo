@@ -35,7 +35,7 @@
     - 코드 중복을 최소화하고 범용적으로 사용할 수 있도록 함수화/모듈화했는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
 
-![GitHub Logo](https://github.com/github/github-logo.png)
+![GitHub Logo](https://search.pstatic.net/common/?src=http%3A%2F%2Fimgnews.naver.net%2Fimage%2F277%2F2018%2F06%2F04%2F0004251105_001_20180604070818028.png&type=sc960_832)
 
 # 회고(참고 링크 및 코드 개선)
 ```
